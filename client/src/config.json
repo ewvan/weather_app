@@ -1,0 +1,5 @@
+{
+  "cities": ["Moscow", "Madrid", "London"],
+  "latency": 36000,
+  "days": 8
+}

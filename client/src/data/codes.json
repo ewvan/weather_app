@@ -1,0 +1,108 @@
+{
+  "data": [
+    {
+      "code": 0,
+      "description": "Clear sky"
+    },
+    {
+      "code": 1,
+      "description": "Mainly clear"
+    },
+    {
+      "code": 2,
+      "description": "partly cloudy"
+    },
+    {
+      "code": 3,
+      "description": "overcast"
+    },
+    {
+      "code": 45,
+      "description": "Fog"
+    },
+    {
+      "code": 48,
+      "description": "depositing rime fog"
+    },
+    {
+      "code": 51,
+      "description": "Light drizzle"
+    },
+    {
+      "code": 53,
+      "description": "moderate drizzle"
+    },
+    {
+      "code": 55,
+      "description": "dense intensity drizzle"
+    },
+    {
+      "code": 56,
+      "description": "Light Freezing Drizzle"
+    },
+    {
+      "code": 57,
+      "description": "dense intensity Freezing Drizzle"
+    },
+    {
+      "code": 61,
+      "description": "Slight rain"
+    },
+    {
+      "code": 63,
+      "description": "Moderate rain"
+    },
+    {
+      "code": 65,
+      "description": "heavy intensity rain"
+    },
+    {
+      "code": 66,
+      "description": "Light freezing rain"
+    },
+    {
+      "code": 67,
+      "description": "heavy intensity freezing rain"
+    },
+    {
+      "code": 71,
+      "description": "Light snow fall"
+    },
+    {
+      "code": 73,
+      "description": "Moderate snow fall"
+    },
+    {
+      "code": 75,
+      "description": "Heavy intensity snow fall"
+    },
+    {
+      "code": 77,
+      "description": "snow grains"
+    },
+    {
+      "code": 80,
+      "description": "Slight rain showers"
+    },
+    {
+      "code": 81,
+      "description": "Moderate rain showers"
+    },
+    {
+      "code": 82,
+      "description": "Violent rain showers"
+    },
+    {
+      "code": 95,
+      "description": "Thunderstorm"
+    },
+    {
+      "code": 96,
+      "description": "Thunderstorm with slight"
+    },
+    {
+      "code": 99,
+      "description": "Thunderstorm with heavy hail"
+    }
+  ]
+}
