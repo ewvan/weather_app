@@ -1,1 +1,8 @@
-# weather_app
+# Weather App
+This weather app is designed to provide users with an intuitive and visually appealing interface that displays real-time weather data for their location or any other location of their choice. The frontend of the app is built with React, a popular JavaScript library for building user interfaces. It is optimized for performance and responsiveness, allowing users to quickly access weather data regardless of their device or connection speed.
+
+The frontend of the app features a clean and modern design that is easy to navigate. Users can search for a location by entering a city or zip code, or they can allow the app to automatically detect their location using GPS. Once a location is selected, the app displays a range of weather data, including current temperature, wind speed, humidity, and chance of precipitation. Users can also view extended weather forecasts for the next few days.
+
+Behind the scenes, the app's backend is built with C++, a high-performance programming language that is known for its speed and efficiency. The backend is responsible for retrieving weather data from various sources and processing it into a format that can be easily displayed on the frontend. It also handles user requests and ensures that the app remains fast and responsive at all times.
+
+Overall, this weather app is a great example of how React and C++ can be used together to create a fast, reliable, and visually appealing user experience. With its intuitive interface and accurate weather data, it's sure to be a hit with users who need to stay up-to-date on the latest weather conditions.
